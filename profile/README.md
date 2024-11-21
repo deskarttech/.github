@@ -1,3 +1,5 @@
+![Deskart - Empowering Data Excellence](https://github.com/deskarttech/.github/blob/main/profile/Header_Image.gif)
+
 # Welcome
 
 At Deskart, we believe in the power of free software and open-source development as a way to foster innovation and collaboration with developers and organizations across the globe.
