@@ -1,2 +1,1 @@
-# .github
-Enterprise Data &amp; Analytics Services
+Deskart - Organizational Wide Readme
